@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_title_size">24sp</dimen>
+    <dimen name="description_item_size">18sp</dimen>
+    <dimen name="url_item_size">16sp</dimen>
+    <dimen name="count_yourself">0dp</dimen>
+    <dimen name="progress_margin">100dp</dimen>
+    <dimen name="layout_margin">8dp</dimen>
+    <dimen name="list_title_size">20sp</dimen>
+</resources>
